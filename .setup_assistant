@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: Arthur Richards
     author_email: arthur.richards@bristol.ac.uk
-    generated_timestamp: 1614018736
+    generated_timestamp: 1614095321
